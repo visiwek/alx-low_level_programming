@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - this prints excatly the input on it
  * Return: always 1.
